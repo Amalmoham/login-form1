@@ -1,0 +1,81 @@
+header {
+    display: flex;
+    background-color: #00baff;
+    margin-bottom:100px ;
+    align-items: center;
+
+}
+.hr {
+    font-size: 20px;
+    color: black;
+    justify-content: space-between;
+    text-decoration: none;
+    padding-left: 50px;
+
+}
+.hr:hover {
+    background-color: blueviolet;
+}
+.home a {
+    color: black;
+    padding-left: 40px;
+    text-decoration: none;
+    text-align: center;
+}
+.home a:hover {
+    background-color:blueviolet ;
+} 
+
+
+
+form {
+  display: flex;
+  background-color: #00baff;
+  width: 400px;
+  height: 400px;
+  margin-top: 100px;
+  border-radius: 15px;
+  padding: 10px 30px ;
+  flex-direction: column;
+  margin: auto;
+
+}
+form label {
+    color: blue;
+}
+form input {
+    margin-bottom: 50px;
+    border-radius: 7px;
+    color: blue;
+
+}
+.first, .last {
+    width: 100%;
+    height: 40px;
+}
+.sumbit {
+color:blue;
+width: 90px;
+height: 30px;
+align-self: center;
+border-radius: 7px;
+
+}
+.foot {
+color: blue;
+margin-top: 100px;
+color: antiquewhite;
+background-color: blue;
+
+
+}
+    
+
+
+
+
+
+
+
+
+
